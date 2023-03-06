@@ -31,4 +31,4 @@
 |3|100 рублей к среднему чеку пользователя обойдутся в 200К рублей на маркетинг|
 |4|+0,1 к кол-ву повторных покупок на пользователя обойдутся в 400К рублей|
   
-Презентация в PowerPoint.
+[Презентация](https://drive.google.com/file/d/1iea2kLIb8Ink7Ocp62pIkYeP8GDQsDrm/view?usp=share_link) в PowerPoint.
